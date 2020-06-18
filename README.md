@@ -4,6 +4,8 @@
 * Ruby version:  2.6.5p114
 * Rails version:  6.0.3.2
 
+---
+
 * System dependencies
 * Configuration
 * Database creation
